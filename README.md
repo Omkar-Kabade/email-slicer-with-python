@@ -1,2 +1,5 @@
 # email-slicer-with-python
-#### short email slicer to split the user name and domain name from a particular email.
+####  To split the user name and domain name from a particular email.
+##### Eg. email -> Example@gmail.com   
+                   username-> example   
+                   domain name-> gmail.com
